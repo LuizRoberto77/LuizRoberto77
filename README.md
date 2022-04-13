@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+## I'm Luiz Roberto!
+
+:computer: I'm a Back-End Developer!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently learning everything.
+
+:outbox_tray: 2022 Goals: create a new project and find a job.
+
+## About me
+
+[![LuizRoberto77](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizRoberto77&hide=html&layout=compact&theme=tokyonight)](https://github.com/luizroberto77/)
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
+
 <!--
 **LuizRoberto77/LuizRoberto77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
