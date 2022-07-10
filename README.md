@@ -2,7 +2,7 @@
 
 ## I'm Luiz Roberto!
 
-🔭 I’m currently working on Klaus Fiscal
+:briefcase: I’m currently working on Klaus Fiscal!
 
 :computer: I'm a Back-End Developer!
 
