@@ -10,7 +10,7 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2022 Goals: create a new project and find a job.
+:outbox_tray: 2022 Goals: create a new project.
 
 ## About me
 
