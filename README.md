@@ -10,8 +10,6 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2022 Goals: create a new project.
-
 ## About me
 
 [![LuizRoberto77](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizRoberto77&hide=html&layout=compact&theme=tokyonight)](https://github.com/luizroberto77/)
